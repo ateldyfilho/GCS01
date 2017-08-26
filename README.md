@@ -1,3 +1,6 @@
+Travis: [![Build Status](https://travis-ci.org/ateldyfilho/GCS01.svg?branch=master)](https://travis-ci.org/ateldyfilho/GCS01)
+
+CircleCI: [![CircleCI](https://circleci.com/gh/ateldyfilho/GCS01.svg?style=svg)](https://circleci.com/gh/ateldyfilho/GCS01)
 # Django Basico
 
 ## Ambiente de Dev
